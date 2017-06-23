@@ -1,5 +1,5 @@
 # NIBEUplinkAPI
-Your heatpump should be registered in Nibe Uplink. This module fetches data from Nibe Uplink API. API documentation: https://api.nibeuplink.com/docs/v1
+This module fetches data from Nibe Uplink API. Your heatpump should be registered in Nibe Uplink. API documentation: https://api.nibeuplink.com/docs/v1
 
 ## Heat Pump ID
 Get your **hpid** from Nibe Uplink web site. Open a heatpump and it's id will be in your address bar:
