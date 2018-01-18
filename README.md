@@ -57,6 +57,7 @@ The "config.py" file is dedicated to store all of your authentication data.
 
 ### NIBE Uplink™ API Application details
 * Callback URL
+** Good reading to set the url: [marshflattsfarm.org.uk](https://www.marshflattsfarm.org.uk/wordpress/?page_id=3480)
 * Identifier
 * Secret
 

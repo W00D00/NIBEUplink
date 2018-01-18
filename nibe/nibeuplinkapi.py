@@ -108,7 +108,7 @@ class NIBEUplinkAPI():
     def __loadToken(self) :
         """
         """
-        with open('nibeuplinkapi/token.txt', 'r') as f:
+        with open('nibe/token.txt', 'r') as f:
             self.access_token = f.readline().strip()
             self.refresh_token = f.readline().strip()
         logger.info('Token is loaded from file.')
@@ -116,7 +116,7 @@ class NIBEUplinkAPI():
     def __saveToken(self) :
         """
         """
-        with open('nibeuplinkapi/token.txt', 'w') as f:
+        with open('nibe/token.txt', 'w') as f:
             f.write('{}\n{}\n'.format(self.access_token, self.refresh_token))
         logger.info('Token is saved into file.')
         
