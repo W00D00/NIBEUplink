@@ -3,7 +3,7 @@
 
 
 # NibeUplink
-This Python library extracts data from NIBE Uplink™ site or its API.
+	This Python library extracts data from NIBE Uplink™ site or its API.
 
 
 # Authors
